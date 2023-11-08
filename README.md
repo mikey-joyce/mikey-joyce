@@ -6,7 +6,7 @@
 # 🪅 Stats 🪅
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikey-joyce&layout=compact) ![](https://github-readme-streak-stats.herokuapp.com/?user=mikey-joyce&theme=nightowl&hide_border=false)
 
-### ‼️ Connect With Me ‼️
+### Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-joyce-827443229/) 
 
 <!--
