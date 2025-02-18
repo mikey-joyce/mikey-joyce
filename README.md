@@ -11,7 +11,7 @@
 <br>[![](https://visitcount.itsvg.in/api?id=mikey-joyce&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-joyce-827443229/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikey-joyce-827443229/) 
 
 <!--
 **mikey-joyce/mikey-joyce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
