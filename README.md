@@ -1,6 +1,6 @@
 # 💥 About me 💥
 🔭 I’m pursuing a M.S. degree in computer science at the University of Missouri to obtain a specialty in machine learning and artificial intelligence<br>
-🧪 Research focus on knowledge discovery and unsupervised learning for bioinformatics; funded by the NIH<br>
+🧪 Research focus on knowledge discovery and unsupervised learning for bioinformatics<br>
 🌱 I’m currently learning about big data<br>
 
 # 👾 My Technologies 👾
